@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "o que você acha dos desastres ambientais",
+        enunciado: "o que você acha dos desastres ambientais?",
         alternativas: [
             {
                 texto: "uma coisa fora do controle",
@@ -22,25 +22,25 @@ const perguntas = [
         enunciado: "Por Quê você acha que é algo fora do controle?",
         alternativas: [
             {
-                texto: "Porquê não é previsto",
-                afirmacao: ""
+                texto: "Porquê não é alguma coisa que da para prever",
+                afirmacao: "Porque não da para saber quando acontece"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Porque envolve fatores além da intervenção humana",
+                afirmacao: "Porque não depende apenas das ações humanas."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Por que você acha que é algo normal da Terra?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Porque já aconteceram ao longo da história da Terra",
+                afirmacao: "Porque faz parte do ciclo natural do planeta"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Porque a Terra tem mecanismos para se recuperar",
+                afirmacao: "Porque a natureza tem capacidade de regeneração"
             }
         ]
     },
