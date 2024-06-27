@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por Quê você acha que é algo fora do controle?",
+        enunciado: "Por que você acha que é algo normal da Terra?",
         alternativas: [
             {
                 texto: "Porquê não é alguma coisa que da para prever",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que você acha que é algo normal da Terra?",
+        enunciado: "Por que voce acha que é algo fora do controle?",
         alternativas: [
             {
                 texto: "Porque já aconteceram ao longo da história da Terra",
@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
+        enunciado: "porque você acha que aconteceu isso ao longo da historia?",
+        alternativas:  [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "atraves de pesquisas",
+                afirmacao: "sim"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
